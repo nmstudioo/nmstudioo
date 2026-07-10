@@ -20,7 +20,7 @@
 <br>
 
 Designed and maintained by **Noushad M.**<br>
-- Based on Bangladesh
+~ Based on Bangladesh
 
 ---
 
