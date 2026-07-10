@@ -1,46 +1,43 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nmstudioo/.github/main/assets/monogram.svg" width="108" alt="NM Studio">
+</p>
 
-<img src="https://raw.githubusercontent.com/nmstudioo/.github/main/assets/monogram.svg" width="110" alt="NM Studio Monogram">
+<h1 align="center">NM Studio</h1>
 
-# NM Studio
+<p align="center">
+  <strong>Thoughtfully designing digital experiences.</strong><br>
+  Systems for clarity.
+</p>
 
-### Thoughtfully designing digital experiences.
-
-Systems for clarity.
-
-</div>
-
----
+<br>
 
 > NM Studio explores the intersection of design, engineering, and structured knowledge.
 >
-> Every project begins with a simple question:
+> Every project begins with one question:
 >
 > **How can complexity become clarity?**
 
 <br>
 
-Designed and maintained by **Noushad M.**  
-Bangladesh
+Designed and maintained by **Noushad M.** · Bangladesh
 
 ---
 
 # Featured Work
 
-<img src="https://raw.githubusercontent.com/nmstudioo/wavelet-complete-feature-reference/main/assets/cover.png" alt="Wavelet Complete Feature Reference">
+<img src="https://raw.githubusercontent.com/nmstudioo/wavelet-complete-feature-reference/main/assets/cover.png" width="100%" alt="Wavelet Complete Feature Reference">
 
 ## Wavelet: Complete Feature Reference
 
-Documentation as interface.
+**Documentation as interface.**
 
 A complete reference exploring how visual hierarchy, structure, and technical writing can transform software documentation into a coherent design system. Every decision—from spacing to terminology—is treated as part of the user experience.
 
-**Repository →**  
-https://github.com/nmstudioo/wavelet-complete-feature-reference
+**→** [Repository](https://github.com/nmstudioo/wavelet-complete-feature-reference)
 
----
+<br>
 
-<img src="https://raw.githubusercontent.com/nmstudioo/android-customization-framework/main/assets/cover.png" alt="Android Customization Framework">
+<img src="https://raw.githubusercontent.com/nmstudioo/android-customization-framework/main/assets/cover.png" width="100%" alt="Android Customization Framework">
 
 ## Android Customization Framework
 
@@ -48,21 +45,19 @@ https://github.com/nmstudioo/wavelet-complete-feature-reference
 
 Most Android customization guides are collections of isolated tweaks. This project approaches customization as a connected system—balancing usability, optimization, maintainability, and thoughtful interaction.
 
-**Repository →**  
-https://github.com/nmstudioo/android-customization-framework
+**→** [Repository](https://github.com/nmstudioo/android-customization-framework)
 
----
+<br>
 
-<img src="https://raw.githubusercontent.com/nmstudioo/design-system-fundamentals/main/assets/cover.png" alt="Typography & Spacing">
+<img src="https://raw.githubusercontent.com/nmstudioo/design-system-fundamentals/main/assets/cover.png" width="100%" alt="Typography & Spacing: Design System Fundamentals">
 
 ## Typography & Spacing: Design System Fundamentals
 
-The constraints that create clarity.
+**The constraints that create clarity.**
 
 An evolving reference examining proportion, hierarchy, rhythm, spacing, and readability. Rather than treating design decisions as intuition, this project documents the principles that make interfaces feel calm, legible, and enduring.
 
-**Repository →**  
-https://github.com/nmstudioo/design-system-fundamentals
+**→** [Repository](https://github.com/nmstudioo/design-system-fundamentals)
 
 ---
 
@@ -80,9 +75,19 @@ It emerges through observation, iteration, precision, and consistency over time.
 
 ---
 
+# Principles
+
+- Craftsmanship over speed
+- Systems over shortcuts
+- Consistency over novelty
+- Curiosity over certainty
+- Authenticity over appearance
+
+---
+
 # Studio Status
 
-```
+```text
 NM Studio Identity
 
 █████████████████░░░ 85%
@@ -94,7 +99,7 @@ Completed
 ✓ Monogram
 ✓ Wordmark
 ✓ Repository Identity System
-✓ Editorial Covers
+✓ Editorial Cover System
 ✓ GitHub Presence
 
 Currently
@@ -112,43 +117,25 @@ Next
 
 ---
 
-# Principles
-
-- Craftsmanship over speed
-- Systems over shortcuts
-- Consistency over novelty
-- Curiosity over certainty
-- Authenticity over appearance
-
----
-
 # Elsewhere
 
-**Portfolio**  
-https://nmstudioo.github.io
-
-**Repositories**  
-https://github.com/nmstudioo?tab=repositories
-
-**Bandcamp**  
-https://limoon.bandcamp.com
+- **Portfolio** — https://nmstudioo.github.io
+- **Repositories** — https://github.com/nmstudioo?tab=repositories
+- **Bandcamp** — https://limoon.bandcamp.com
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nmstudioo/.github/main/assets/monogram.svg" width="48" alt="NM Studio">
+</p>
 
-<img src="https://raw.githubusercontent.com/nmstudioo/.github/main/assets/monogram.svg" width="52" alt="NM Studio">
+<p align="center">
+  <strong>NM Studio</strong><br>
+  Thoughtfully designing digital experiences.<br><br>
+  <em>Craftsmanship in every detail.</em>
+</p>
 
-### NM Studio
-
-Thoughtfully designing digital experiences.
-
-Craftsmanship in every detail.
-
-<br>
-
-*Editorial Edition 2026.1*
-
-Currently evolving.
-
-</div>
+<p align="center">
+  Editorial Edition 2026.1<br>
+  <sub>Currently evolving.</sub>
+</p>
