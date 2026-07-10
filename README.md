@@ -25,7 +25,6 @@ Designed and maintained by **Noushad M.**<br>
 ---
 
 # Featured Work
-<br>
 
 <img src="https://github.com/nmstudioo/nmstudioo/raw/refs/heads/main/assets/wavelet-cover.png" width="100%" alt="Wavelet Complete Feature Reference">
 
@@ -90,15 +89,11 @@ Designed and maintained by **Noushad M.**<br>
 
 **→** Project Coming Soon
 
-<br>
-
 ---
 
 # Approach
 
 NM Studio approaches documentation, interfaces, and digital products as systems rather than isolated artifacts. Reduction is a guiding principle: remove everything that does not contribute to understanding. Good work is rarely the result of inspiration alone. It emerges through observation, iteration, precision, and consistency over time. **Craftsmanship is the accumulation of small decisions made with care.**
-
-<br>
 
 ---
 
@@ -109,8 +104,6 @@ NM Studio approaches documentation, interfaces, and digital products as systems 
 - Consistency over novelty
 - Curiosity over certainty
 - Authenticity over appearance
-
-<br>
 
 ---
 
@@ -141,8 +134,6 @@ Next
 → Knowledge Archive
 ```
 
-<br>
-
 ---
 
 # Elsewhere
@@ -151,7 +142,6 @@ Next
 - **Repositories** — https://github.com/nmstudioo?tab=repositories
 - **Bandcamp** — https://limoon.bandcamp.com
 
-<br>
 
 ---
 
