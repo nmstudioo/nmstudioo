@@ -19,8 +19,7 @@
 
 <br>
 
-Designed and maintained by **Noushad M.**<br>
-~ Based on Bangladesh
+Designed and maintained by **Noushad M.** Currently based in Bangladesh.
 
 ---
 
@@ -34,7 +33,7 @@ Designed and maintained by **Noushad M.**<br>
 
 **→** [Repository](https://github.com/nmstudioo/wavelet-complete-feature-reference)
 
-<p align="center">- ✦ -</p>
+<p align="center">· · ·</p>
 <br>
 
 <img src="https://github.com/nmstudioo/nmstudioo/raw/refs/heads/main/assets/via-cover.png" width="100%" alt="Via Optimization Guide">
@@ -45,7 +44,7 @@ Designed and maintained by **Noushad M.**<br>
 
 **→** [Repository](https://github.com/nmstudioo/via-optimization)
 
-<p align="center">- ✦ -</p>
+<p align="center">· · ·</p>
 <br>
 
 <img src="https://github.com/nmstudioo/nmstudioo/raw/refs/heads/main/assets/metal-ai-music-album.png" width="100%" alt="Metal AI Music — No Limits">
@@ -54,9 +53,9 @@ Designed and maintained by **Noushad M.**<br>
 
 **Where heavy music meets artificial intelligence.** An experimental creative project exploring the intersection of metal composition, AI-assisted production, visual identity, and independent digital publishing. A study in how emerging tools can amplify—not replace—creative craftsmanship.
 
-**→** Project Coming Soon
+**→** In Development
 
-<p align="center">- ✦ -</p>
+<p align="center">· · ·</p>
 <br>
 
 <img src="https://github.com/nmstudioo/nmstudioo/raw/refs/heads/main/assets/adfree-apps-deep-dive.png" width="100%" alt="Deep Dive on Adfree YouTube, Facebook, Instagram & Telegram Apps">
@@ -65,9 +64,9 @@ Designed and maintained by **Noushad M.**<br>
 
 **Privacy, freedom, and intentional mobile experiences.** A comprehensive guide documenting modern approaches to ad-free applications, privacy-focused alternatives, advanced customization, and sustainable mobile workflows. Practical knowledge presented through structured research and clear documentation.
 
-**→** Project Coming Soon
+**→** In Development
 
-<p align="center">- ✦ -</p>
+<p align="center">· · ·</p>
 <br>
 
 <img src="https://github.com/nmstudioo/nmstudioo/raw/refs/heads/main/assets/typography-spacing.png" width="100%" alt="Typography & Spacing: Design System Fundamentals">
@@ -78,7 +77,7 @@ Designed and maintained by **Noushad M.**<br>
 
 **→** [Repository](https://github.com/nmstudioo/design-system-fundamentals)
 
-<p align="center">- ✦ -</p>
+<p align="center">· · ·</p>
 <br>
 
 <img src="https://github.com/nmstudioo/nmstudioo/raw/refs/heads/main/assets/android-customization-framework.png" width="100%" alt="Android Customization Framework">
@@ -87,13 +86,21 @@ Designed and maintained by **Noushad M.**<br>
 
 **Personalization beyond aesthetics.** Most Android customization guides are collections of isolated tweaks. This project approaches customization as a connected system—balancing usability, optimization, maintainability, and thoughtful interaction.
 
-**→** Project Coming Soon
+**→** In Development
+
+<p align="center">· · ·</p>
 
 ---
 
 # Approach
 
-NM Studio approaches documentation, interfaces, and digital products as systems rather than isolated artifacts. Reduction is a guiding principle: remove everything that does not contribute to understanding. Good work is rarely the result of inspiration alone. It emerges through observation, iteration, precision, and consistency over time. **Craftsmanship is the accumulation of small decisions made with care.**
+NM Studio approaches documentation, interfaces, and digital products as systems rather than isolated artifacts.
+
+Reduction is a guiding principle: remove everything that does not contribute to understanding.
+
+Good work is rarely the result of inspiration alone.
+
+**Craftsmanship is the accumulation of small decisions made with care.**
 
 ---
 
@@ -154,5 +161,5 @@ Next
   <strong>NM Studio</strong>
   <br>
   Thoughtfully designing digital experiences.<br><br>
-  <em>Craftsmanship in every detail.</em>
+  <em>Systems for clarity <br> Craftsmanship in every detail.</em>
 </p>
