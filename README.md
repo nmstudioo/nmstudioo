@@ -166,8 +166,3 @@ Next
   Thoughtfully designing digital experiences.<br><br>
   <em>Craftsmanship in every detail.</em>
 </p>
-
-<p align="center">
-  Editorial Edition 2026<br>
-  <sub>Currently evolving.</sub>
-</p>
