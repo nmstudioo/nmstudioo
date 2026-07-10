@@ -1,101 +1,154 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/nmstudioo/.github/main/assets/monogram.svg" width="110" alt="NM Studio Monogram">
+
 # NM Studio
 
-**Thoughtfully designing digital experiences.**
+### Thoughtfully designing digital experiences.
 
-Independent creative practice exploring the intersection of design, engineering, artificial intelligence, Android customization, and music.
-
-<br>
-
-[Portfolio](https://nmstudioo.github.io) •
-[Projects](https://github.com/nmstudioo?tab=repositories) •
-[LinkedIn](#) •
-[Bandcamp](#)
+Systems for clarity.
 
 </div>
 
 ---
 
-## About
+> NM Studio explores the intersection of design, engineering, and structured knowledge.
+>
+> Every project begins with a simple question:
+>
+> **How can complexity become clarity?**
 
-Hello, I'm **Noushad M.**
+<br>
 
-I enjoy understanding systems from the ground up and transforming complexity into experiences that feel simple, thoughtful, and intentional.
-
-Rather than chasing trends, I focus on building work that remains useful, understandable, and aesthetically timeless.
-
-My interests currently revolve around:
-
-- Frontend Engineering
-- UI & Interaction Design
-- AI Workflows
-- Android Customization
-- Documentation & Knowledge Systems
-- Music Production
+Designed and maintained by **Noushad M.**  
+Bangladesh
 
 ---
 
-## Selected Projects
+# Featured Work
 
-### NM Studio Portfolio
+<img src="https://raw.githubusercontent.com/nmstudioo/wavelet-complete-feature-reference/main/assets/cover.png" alt="Wavelet Complete Feature Reference">
 
-A carefully crafted portfolio built from scratch, documenting my work, design philosophy, and ongoing exploration across multiple disciplines.
+## Wavelet: Complete Feature Reference
 
----
+Documentation as interface.
 
-### Via Optimization Guide
+A complete reference exploring how visual hierarchy, structure, and technical writing can transform software documentation into a coherent design system. Every decision—from spacing to terminology—is treated as part of the user experience.
 
-An in-depth exploration of Android optimization techniques, organized as a practical reference rather than scattered tips.
-
----
-
-### Wavelet Complete Feature Reference
-
-A comprehensive guide documenting Wavelet's features, workflows, and technical possibilities through systematic experimentation.
+**Repository →**  
+https://github.com/nmstudioo/wavelet-complete-feature-reference
 
 ---
 
-## Design Philosophy
+<img src="https://raw.githubusercontent.com/nmstudioo/android-customization-framework/main/assets/cover.png" alt="Android Customization Framework">
 
-Good design is rarely about adding more.
+## Android Customization Framework
 
-It is often about understanding what can be removed without losing meaning.
+> Personalization beyond aesthetics.
 
-I believe thoughtful software should feel:
+Most Android customization guides are collections of isolated tweaks. This project approaches customization as a connected system—balancing usability, optimization, maintainability, and thoughtful interaction.
 
-- Calm
-- Honest
-- Purposeful
-- Accessible
-- Long-lasting
-
-Technology should serve people—not the other way around.
+**Repository →**  
+https://github.com/nmstudioo/android-customization-framework
 
 ---
 
-## Current Focus
+<img src="https://raw.githubusercontent.com/nmstudioo/design-system-fundamentals/main/assets/cover.png" alt="Typography & Spacing">
 
-- Building NM Studio
-- Refining my design system
-- Publishing open documentation
-- Exploring AI-assisted creative workflows
-- Developing thoughtful digital experiences
+## Typography & Spacing: Design System Fundamentals
+
+The constraints that create clarity.
+
+An evolving reference examining proportion, hierarchy, rhythm, spacing, and readability. Rather than treating design decisions as intuition, this project documents the principles that make interfaces feel calm, legible, and enduring.
+
+**Repository →**  
+https://github.com/nmstudioo/design-system-fundamentals
 
 ---
 
-## Principles
+# Approach
 
-- Authenticity over appearance
+NM Studio approaches documentation, interfaces, and digital products as systems rather than isolated artifacts.
+
+Reduction is a guiding principle: remove everything that does not contribute to understanding.
+
+Good work is rarely the result of inspiration alone.
+
+It emerges through observation, iteration, precision, and consistency over time.
+
+**Craftsmanship is the accumulation of small decisions made with care.**
+
+---
+
+# Studio Status
+
+```
+NM Studio Identity
+
+█████████████████░░░ 85%
+
+Completed
+
+✓ Brand Philosophy
+✓ Design Language
+✓ Monogram
+✓ Wordmark
+✓ Repository Identity System
+✓ Editorial Covers
+✓ GitHub Presence
+
+Currently
+
+▶ README Editorial System
+▶ Website Refinement
+
+Next
+
+→ Open Graph Identity
+→ Brand Guidelines
+→ Documentation Library
+→ Knowledge Archive
+```
+
+---
+
+# Principles
+
+- Craftsmanship over speed
 - Systems over shortcuts
 - Consistency over novelty
 - Curiosity over certainty
-- Craftsmanship over speed
+- Authenticity over appearance
+
+---
+
+# Elsewhere
+
+**Portfolio**  
+https://nmstudioo.github.io
+
+**Repositories**  
+https://github.com/nmstudioo?tab=repositories
+
+**Bandcamp**  
+https://limoon.bandcamp.com
 
 ---
 
 <div align="center">
 
-*"Thoughtfully designing digital experiences."*
+<img src="https://raw.githubusercontent.com/nmstudioo/.github/main/assets/monogram.svg" width="52" alt="NM Studio">
+
+### NM Studio
+
+Thoughtfully designing digital experiences.
+
+Craftsmanship in every detail.
+
+<br>
+
+*Editorial Edition 2026.1*
+
+Currently evolving.
 
 </div>
