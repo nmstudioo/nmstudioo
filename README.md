@@ -20,11 +20,12 @@
 <br>
 
 Designed and maintained by **Noushad M.**<br>
-Based on Bangladesh
+- Based on Bangladesh
 
 ---
 
 # Featured Work
+<br>
 
 <img src="https://github.com/nmstudioo/nmstudioo/raw/refs/heads/main/assets/wavelet-cover.png" width="100%" alt="Wavelet Complete Feature Reference">
 
