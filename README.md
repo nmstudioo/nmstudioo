@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nmstudioo/.github/main/assets/monogram.svg" width="108" alt="NM Studio">
+  <img src="https://raw.githubusercontent.com/nmstudioo/nmstudioo/refs/heads/main/assets/monogram.png" width="108" alt="NM Studio">
 </p>
 
 <h1 align="center">NM Studio</h1>
@@ -25,7 +25,7 @@ Designed and maintained by **Noushad M.** · Bangladesh
 
 # Featured Work
 
-<img src="https://raw.githubusercontent.com/nmstudioo/wavelet-complete-feature-reference/main/assets/cover.png" width="100%" alt="Wavelet Complete Feature Reference">
+<img src="https://github.com/nmstudioo/nmstudioo/raw/refs/heads/main/assets/wavelet-cover.png" width="100%" alt="Wavelet Complete Feature Reference">
 
 ## Wavelet: Complete Feature Reference
 
@@ -37,7 +37,7 @@ A complete reference exploring how visual hierarchy, structure, and technical wr
 
 <br>
 
-<img src="https://raw.githubusercontent.com/nmstudioo/android-customization-framework/main/assets/cover.png" width="100%" alt="Android Customization Framework">
+<img src="https://github.com/nmstudioo/nmstudioo/raw/refs/heads/main/assets/via-cover.png" width="100%" alt="Android Customization Framework">
 
 ## Android Customization Framework
 
@@ -49,7 +49,7 @@ Most Android customization guides are collections of isolated tweaks. This proje
 
 <br>
 
-<img src="https://raw.githubusercontent.com/nmstudioo/design-system-fundamentals/main/assets/cover.png" width="100%" alt="Typography & Spacing: Design System Fundamentals">
+<img src="https://github.com/nmstudioo/nmstudioo/raw/refs/heads/main/assets/og-image.png" width="100%" alt="Typography & Spacing: Design System Fundamentals">
 
 ## Typography & Spacing: Design System Fundamentals
 
@@ -126,7 +126,7 @@ Next
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nmstudioo/.github/main/assets/monogram.svg" width="48" alt="NM Studio">
+  <img src="https://raw.githubusercontent.com/nmstudioo/nmstudioo/refs/heads/main/assets/monogram.png" width="48" alt="NM Studio">
 </p>
 
 <p align="center">
@@ -136,6 +136,6 @@ Next
 </p>
 
 <p align="center">
-  Editorial Edition 2026.1<br>
+  Editorial Edition 2026<br>
   <sub>Currently evolving.</sub>
 </p>
