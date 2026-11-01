@@ -1,35 +1,65 @@
 <div align="center">
-  
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="assets/portrait.png">
-<img src="assets/portrait.png" alt="Noushad Mostafa — Frontend Developer and UI/UX Designer" width="100">
-</picture>
-
 
 <br>
 
-[**Portfolio**](https://nmstudioo.github.io/) &nbsp;·&nbsp; [**FightingDeath**](https://nmstudioo.github.io/FightingDeath/) &nbsp;·&nbsp; [**HyperAudio**](https://nmstudioo.github.io/HyperAudio/) &nbsp;·&nbsp; [**viaBrowser**](https://github.com/nmstudioo/viaBrowser) &nbsp;·&nbsp; [**NM Studio**](https://github.com/nmstudioo)
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/portrait.png">
+<img src="assets/portrait.png" alt="Noushad Mostafa" width="112">
+</picture>
+
+<h1>Noushad Mostafa</h1>
+
+<sub><b>FRONTEND DEVELOPER &nbsp;&middot;&nbsp; UI/UX DESIGNER</b></sub>
+
+<br><br>
+
+<i>Type, spacing, colour, motion and code, decided together.</i>
+
+<br><br>
+
+<a href="https://nmstudioo.github.io/"><b>Portfolio</b></a> &nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="https://nmstudioo.github.io/FightingDeath/"><b>FightingDeath</b></a> &nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="https://nmstudioo.github.io/HyperAudio/"><b>HyperAudio</b></a> &nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="https://github.com/nmstudioo/viaBrowser"><b>viaBrowser</b></a> &nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="https://github.com/nmstudioo"><b>NM Studio</b></a>
+
+<br>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
-
-### About
-
-<div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
 <img src="assets/banner-light.svg" alt="Noushad Mostafa — Frontend Developer and UI/UX Designer" width="100%">
 </picture>
+
+<br>
+
+<div align="center">
+
+<sub><b>01 &nbsp;&mdash;&nbsp; PHILOSOPHY</b></sub>
+
+<br><br>
+
+I design and build web interfaces as a single system,<br>
+so the result feels inevitable rather than assembled.
+
+<br>
+
+<sub>Restraint &nbsp;&middot;&nbsp; Readable typography &nbsp;&middot;&nbsp; Accessible contrast &nbsp;&middot;&nbsp; Mobile-first &nbsp;&middot;&nbsp; Fast by default</sub>
+
 </div>
 
-I design and build web interfaces as one system: type, spacing, colour, motion and code decided together, so the result feels inevitable rather than assembled.
-
-My work sits between interface design and frontend engineering. I care about restraint, readable typography, accessible contrast, mobile-first layout and pages that stay fast. I ship things that are small, finished and documented.
+<br>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-### Selected work
+<br>
+
+<div align="center">
+
+<sub><b>02 &nbsp;&mdash;&nbsp; SELECTED WORK</b></sub>
+
+<br><br>
 
 <a href="https://nmstudioo.github.io/FightingDeath/">
 <picture>
@@ -59,29 +89,70 @@ My work sits between interface design and frontend engineering. I care about res
 </picture>
 </a>
 
-<img src="assets/divider.svg" width="100%" alt="">
+</div>
 
-### How I work
-
-|  |  |
-|:--|:--|
-| **Systems over motivation** | Tokens, scales and constraints that produce consistent output on a bad day. |
-| **Constraints create clarity** | Limited hardware and limited scope are design parameters, not obstacles. |
-| **Evidence over intuition** | Look at the rendered result, measure it, then change it. |
-
-### Craft
-
-`Interface design` &nbsp; `Design systems` &nbsp; `Typography` &nbsp; `Frontend engineering` &nbsp; `React` &nbsp; `HTML · CSS · JavaScript` &nbsp; `Audio DSP` &nbsp; `Accessibility` &nbsp; `Performance`
+<br>
 
 <img src="assets/divider.svg" width="100%" alt="">
+
+<br>
 
 <div align="center">
 
+<sub><b>03 &nbsp;&mdash;&nbsp; PRINCIPLES</b></sub>
+
+<br><br>
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<b>Systems over motivation</b><br><br>
+<sub>Tokens, scales and constraints that produce consistent output on a bad day.</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<b>Constraints create clarity</b><br><br>
+<sub>Limited hardware and limited scope are design parameters, not obstacles.</sub>
+</td>
+<td width="33%" valign="top" align="center">
+<b>Evidence over intuition</b><br><br>
+<sub>Look at the rendered result, measure it, then change it.</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+<br>
+
+<div align="center">
+
+<sub><b>04 &nbsp;&mdash;&nbsp; CRAFT</b></sub>
+
+<br><br>
+
+Interface Design &nbsp;&middot;&nbsp; Design Systems &nbsp;&middot;&nbsp; Typography<br>
+Frontend Engineering &nbsp;&middot;&nbsp; React &nbsp;&middot;&nbsp; HTML / CSS / JavaScript<br>
+Audio DSP &nbsp;&middot;&nbsp; Accessibility &nbsp;&middot;&nbsp; Performance
+
+<br><br>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+<br>
+
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
-<img src="assets/logo-light.svg" alt="NM monogram" width="56">
+<img src="assets/logo-light.svg" alt="NM monogram" width="48">
 </picture>
 
-<sub>Designed and built by Noushad Mostafa - NM Studio</sub>
+<br><br>
+
+<sub>Designed and built by Noushad Mostafa &nbsp;&middot;&nbsp; NM Studio</sub>
+
+<br>
 
 </div>
