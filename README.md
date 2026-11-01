@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nmstudioo/nmstudioo/refs/heads/main/assets/avatar-og.png" width="108" alt="NM Studio">
+  <img src="https://raw.githubusercontent.com/nmstudioo/nmstudioo/refs/heads/main/assets/avatar/avatar-og.png" width="108" alt="NM Studio">
 </p>
 
 <h1 align="center">NM Studio</h1>
