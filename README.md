@@ -42,6 +42,8 @@
 
 <img src="assets/h-craft.svg" width="560" alt="Craft" align="top">
 <br>
+<br>
+
 <img src="https://img.shields.io/badge/DESIGN-INTERFACE-c5f36b?style=flat-square&labelColor=101214" alt="DESIGN: INTERFACE">
 <img src="https://img.shields.io/badge/DESIGN-SYSTEMS-c5f36b?style=flat-square&labelColor=101214" alt="DESIGN: SYSTEMS">
 <img src="https://img.shields.io/badge/DESIGN-TYPOGRAPHY-c5f36b?style=flat-square&labelColor=101214" alt="DESIGN: TYPOGRAPHY">
@@ -53,6 +55,7 @@
 
 <br>
 <br>
+<br>
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
@@ -61,7 +64,7 @@
 
 <br>
 
-<sub>Designed and built by Noushad Mostafa · NM Studio</sub>
+<sub>Designed and built by Noushad Mostafa · NM Studioo</sub>
 
 <br>
 
