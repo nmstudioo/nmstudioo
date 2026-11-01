@@ -1,11 +1,17 @@
 <div align="center">
 
-<br>
-
 <img src="assets/portrait.png" width="88" alt="Noushad Mostafa">
+
+<br>
 
 <img src="assets/hero.svg" width="560" alt="Noushad Mostafa, Frontend Developer and UI/UX Designer. Five bands of one curve: type, space, colour, motion and code, tuned together." align="top">
 
+<br>
+
+
+<img src="assets/statement.svg" width="560" alt="I design and build web interfaces as a single system, so the result feels inevitable rather than assembled." align="top">
+
+<br>
 <br>
 
 <a href="https://nmstudioo.github.io/"><img src="https://img.shields.io/badge/OPEN%20THE%20SITE-nmstudioo.github.io-c5f36b?style=for-the-badge&labelColor=101214" alt="Open the site"></a>
@@ -18,9 +24,6 @@
 <img src="https://img.shields.io/badge/PERF-FAST%20BY%20DEFAULT-8a9593?style=flat-square&labelColor=101214" alt="PERF: FAST BY DEFAULT">
 
 <br>
-
-<img src="assets/statement.svg" width="560" alt="I design and build web interfaces as a single system, so the result feels inevitable rather than assembled." align="top">
-
 <br>
 
 <img src="assets/h-work.svg" width="560" alt="Selected work, 04 tracks" align="top">
