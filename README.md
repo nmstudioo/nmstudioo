@@ -18,7 +18,7 @@
 <div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/portrait.png">
-<img src="assets/portrait.png" alt="Noushad Mostafa — Frontend Developer and UI/UX Designer" width="56">
+<img src="assets/portrait.png" alt="Noushad Mostafa — Frontend Developer and UI/UX Designer" width="76">
 </picture>
 </div>
 
