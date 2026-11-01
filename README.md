@@ -17,7 +17,7 @@
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/portrait.png">
-<img src="assets/portrait.png" alt="Noushad Mostafa — Frontend Developer and UI/UX Designer" width="40%">
+<img src="assets/portrait.png" alt="Noushad Mostafa — Frontend Developer and UI/UX Designer" width="56">
 </picture>
 
 I design and build web interfaces as one system: type, spacing, colour, motion and code decided together, so the result feels inevitable rather than assembled.
