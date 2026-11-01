@@ -7,7 +7,7 @@
 
 <br>
 
-[**Portfolio**](https://nmstudioo.github.io/) &nbsp;·&nbsp; [**FightingDeath**](https://nmstudioo.github.io/FightingDeath/) &nbsp;·&nbsp; [**viaBrowser**](https://github.com/nmstudioo/viaBrowser) &nbsp;·&nbsp; [**NM Studio**](https://github.com/nmstudioo)
+[**Portfolio**](https://nmstudioo.github.io/) &nbsp;·&nbsp; [**FightingDeath**](https://nmstudioo.github.io/FightingDeath/) &nbsp;·&nbsp; [**HyperAudio**](https://nmstudioo.github.io/HyperAudio/) &nbsp;·&nbsp; [**viaBrowser**](https://github.com/nmstudioo/viaBrowser) &nbsp;·&nbsp; [**NM Studio**](https://github.com/nmstudioo)
 
 </div>
 
@@ -27,6 +27,13 @@ My work sits between interface design and frontend engineering. I care about res
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/card-fightingdeath-dark.svg">
 <img src="assets/card-fightingdeath-light.svg" alt="FightingDeath — Metal AI Music, No Limits" width="100%">
+</picture>
+</a>
+
+<a href="https://nmstudioo.github.io/HyperAudio/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-hyperaudio-dark.svg">
+<img src="assets/card-hyperaudio-light.svg" alt="HyperAudio — RootlessJamesDSP Pack" width="100%">
 </picture>
 </a>
 
@@ -56,7 +63,7 @@ My work sits between interface design and frontend engineering. I care about res
 
 ### Craft
 
-`Interface design` &nbsp; `Design systems` &nbsp; `Typography` &nbsp; `Frontend engineering` &nbsp; `React` &nbsp; `HTML · CSS · JavaScript` &nbsp; `Accessibility` &nbsp; `Performance`
+`Interface design` &nbsp; `Design systems` &nbsp; `Typography` &nbsp; `Frontend engineering` &nbsp; `React` &nbsp; `HTML · CSS · JavaScript` &nbsp; `Audio DSP` &nbsp; `Accessibility` &nbsp; `Performance`
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -67,6 +74,6 @@ My work sits between interface design and frontend engineering. I care about res
 <img src="assets/logo-light.svg" alt="NM monogram" width="56">
 </picture>
 
-<sub>Designed and built by Noushad Mostafa · NM Studio</sub>
+<sub>Designed and built by Noushad Mostafa - NM Studio</sub>
 
 </div>
