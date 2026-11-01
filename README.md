@@ -1,190 +1,72 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nmstudioo/nmstudioo/refs/heads/main/assets/avatar/avatar-og.png" width="108" alt="NM Studio">
-</p>
+<div align="center">
 
-<h1 align="center">NM Studio</h1>
-
-<p align="center">
-  <strong>Thoughtfully designing digital experiences.</strong><br>
-  Systems for clarity.
-</p>
-
-<p align="center">
-  <a href="https://nmstudioo.github.io"><b>Portfolio</b></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/nmstudioo?tab=repositories">Repositories</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://limoon.bandcamp.com">Bandcamp</a>
-</p>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+<img src="assets/banner-light.svg" alt="Noushad Mostafa — Frontend Developer and UI/UX Designer" width="100%">
+</picture>
 
 <br>
 
-> NM Studio explores the intersection of design, engineering, and structured knowledge.
->
-> Every project begins with one question:
->
-> **How can complexity become clarity?**
+[**Portfolio**](https://nmstudioo.github.io/) &nbsp;·&nbsp; [**FightingDeath**](https://nmstudioo.github.io/FightingDeath/) &nbsp;·&nbsp; [**viaBrowser**](https://github.com/nmstudioo/viaBrowser) &nbsp;·&nbsp; [**NM Studio**](https://github.com/nmstudioo)
 
-<br>
+</div>
 
-Designed and maintained by **Noushad M.**
-Currently based in Bangladesh.
+<img src="assets/divider.svg" width="100%" alt="">
 
----
+### About
 
-## Featured Work
+I design and build web interfaces as one system: type, spacing, colour, motion and code decided together, so the result feels inevitable rather than assembled.
 
+My work sits between interface design and frontend engineering. I care about restraint, readable typography, accessible contrast, mobile-first layout and pages that stay fast. I ship things that are small, finished and documented.
 
-### Wavelet: Complete Feature Reference
+<img src="assets/divider.svg" width="100%" alt="">
 
-<img src="https://raw.githubusercontent.com/nmstudioo/nmstudioo/refs/heads/main/assets/wavelet-cover.png" width="100%" alt="Wavelet Complete Feature Reference">
+### Selected work
 
-**Documentation as interface.** A complete reference exploring how visual hierarchy, structure, and technical writing can transform software documentation into a coherent design system. Every decision—from spacing to terminology—is treated as part of the user experience.
+<a href="https://nmstudioo.github.io/FightingDeath/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-fightingdeath-dark.svg">
+<img src="assets/card-fightingdeath-light.svg" alt="FightingDeath — Metal AI Music, No Limits" width="100%">
+</picture>
+</a>
 
-**→** Project Coming Soon
+<a href="https://github.com/nmstudioo/viaBrowser">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-viabrowser-dark.svg">
+<img src="assets/card-viabrowser-light.svg" alt="viaBrowser — Optimization Guide" width="100%">
+</picture>
+</a>
 
-<br>
-<p align="center">. . .</p>
-<br>
+<a href="https://nmstudioo.github.io/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/card-portfolio-dark.svg">
+<img src="assets/card-portfolio-light.svg" alt="nmstudioo.github.io — Portfolio" width="100%">
+</picture>
+</a>
 
+<img src="assets/divider.svg" width="100%" alt="">
 
-### Via Optimization Guide
+### How I work
 
-<img src="https://raw.githubusercontent.com/nmstudioo/nmstudioo/refs/heads/main/assets/via-cover.png" width="100%" alt="Via Optimization Guide">
+|  |  |
+|:--|:--|
+| **Systems over motivation** | Tokens, scales and constraints that produce consistent output on a bad day. |
+| **Constraints create clarity** | Limited hardware and limited scope are design parameters, not obstacles. |
+| **Evidence over intuition** | Look at the rendered result, measure it, then change it. |
 
-**Android optimization as a design discipline.** A systematic exploration of Android optimization, browser customization, performance tuning, privacy, and long-term maintainability. Rather than isolated tweaks, the project treats optimization as an interconnected design system built around clarity, efficiency, and intentional workflows.
+### Craft
 
-**→** Project Coming Soon
+`Interface design` &nbsp; `Design systems` &nbsp; `Typography` &nbsp; `Frontend engineering` &nbsp; `React` &nbsp; `HTML · CSS · JavaScript` &nbsp; `Accessibility` &nbsp; `Performance`
 
-<br>
-<p align="center">. . .</p>
-<br>
+<img src="assets/divider.svg" width="100%" alt="">
 
+<div align="center">
 
-### Metal AI Music — No Limits
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+<img src="assets/logo-light.svg" alt="NM monogram" width="56">
+</picture>
 
-<img src="https://raw.githubusercontent.com/nmstudioo/nmstudioo/refs/heads/main/assets/metal-ai-music-album.png" width="100%" alt="Metal AI Music — No Limits">
+<sub>Designed and built by Noushad Mostafa · NM Studio</sub>
 
-**Where heavy music meets artificial intelligence.** An experimental creative project exploring the intersection of metal composition, AI-assisted production, visual identity, and independent digital publishing. A study in how emerging tools can amplify—not replace—creative craftsmanship.
-
-**→** Project Coming Soon
-
-<br>
-<p align="center">. . .</p>
-<br>
-
-### Deep Dive on Adfree YouTube, Facebook, Instagram & Telegram Apps
-
-<img src="https://raw.githubusercontent.com/nmstudioo/nmstudioo/refs/heads/main/assets/adfree-apps-deep-dive.png" width="100%" alt="Deep Dive on Adfree YouTube, Facebook, Instagram & Telegram Apps">
-
-**Privacy, freedom, and intentional mobile experiences.** A comprehensive guide documenting modern approaches to ad-free applications, privacy-focused alternatives, advanced customization, and sustainable mobile workflows. Practical knowledge presented through structured research and clear documentation.
-
-**→** Project Coming Soon
-
-<br>
-<p align="center">. . .</p>
-<br>
-
-
-### Typography & Spacing: Design System Fundamentals
-
-<img src="https://raw.githubusercontent.com/nmstudioo/nmstudioo/refs/heads/main/assets/typography-spacing.png" width="100%" alt="Typography & Spacing: Design System Fundamentals">
-
-**The constraints that create clarity.** An evolving reference examining proportion, hierarchy, rhythm, spacing, and readability. Rather than treating design decisions as intuition, this project documents the principles that make interfaces feel calm, legible, and enduring.
-
-**→** Project Coming Soon
-
-<br>
-<p align="center">. . .</p>
-<br>
-
-
-### Android Customization Framework
-
-<img src="https://raw.githubusercontent.com/nmstudioo/nmstudioo/refs/heads/main/assets/android-customization-framework.png" width="100%" alt="Android Customization Framework">
-
-**Personalization beyond aesthetics.** Most Android customization guides are collections of isolated tweaks. This project approaches customization as a connected system—balancing usability, optimization, maintainability, and thoughtful interaction.
-
-**→** Project Coming Soon
-
-<br>
-
----
-
-## Approach
-
-NM Studio approaches documentation, interfaces, and digital products as systems rather than isolated artifacts.
-
-Reduction is a guiding principle: remove everything that does not contribute to understanding.
-
-Good work is rarely the result of inspiration alone.
-
-Craftsmanship is the accumulation of small decisions made with care.
-
-<br>
-
----
-
-## Principles
-
-- Craftsmanship over speed
-- Systems over shortcuts
-- Consistency over novelty
-- Curiosity over certainty
-- Authenticity over appearance
-
-<br>
-
----
-
-## Studio Status
-
-```
-NM Studio Identity
-
-█████████████████░░░ 85%
-
-Completed
-✓ Brand Philosophy
-✓ Design Language
-✓ Monogram
-✓ Wordmark
-✓ Repository Identity System
-✓ Editorial Cover System
-✓ GitHub Presence
-
-Currently
-▶ README Editorial System
-▶ Website Refinement
-
-Next
-→ Open Graph Identity
-→ Brand Guidelines
-→ Documentation Library
-→ Knowledge Archive
-```
-
-<br>
-
----
-
-## Elsewhere
-
-- **Portfolio** — https://nmstudioo.github.io
-- **Repositories** — https://github.com/nmstudioo?tab=repositories
-- **Bandcamp** — https://limoon.bandcamp.com
-
-<br>
-
----
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nmstudioo/nmstudioo/refs/heads/main/assets/monogram-circle-b.png" width="48" alt="NM Studio">
-</p>
-
-<p align="center">
-  <strong>NM Studio</strong><br>
-  Thoughtfully designing digital experiences.<br><br>
-  <em>Systems for clarity <br> Craftsmanship in every detail.</em>
-</p>
+</div>
