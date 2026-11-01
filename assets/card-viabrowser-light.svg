@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190" role="img" aria-label="viaBrowser — Optimization Guide">
+<rect x=".5" y=".5" width="999" height="189" rx="20" fill="#ffffff" stroke="#d3e2df"/>
+<rect x="0" y="28" width="4" height="134" rx="2" fill="#0b6e5c"/>
+<text x="40" y="104" font-family="'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif" font-size="54" font-weight="700" fill="none" stroke="#b9cdc9" stroke-width="1.4">02</text>
+<text x="120" y="56" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="650" letter-spacing="-.6" fill="#0b0f10">viaBrowser</text>
+<text x="120" y="82" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace" font-size="14" fill="#0b6e5c">Optimization Guide</text>
+<text x="120" y="116" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#4b5a58">An interactive six-part setup guide with saved checklists, progress tracking,</text><text x="120" y="142" font-family="ui-sans-serif,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#4b5a58">before/after metrics and a light and dark theme.</text>
+<text x="120" y="168" font-family="ui-monospace,'SF Mono','Cascadia Mono',Menlo,Consolas,monospace" font-size="13" fill="#4b5a58">Vanilla JS · Design tokens · Dark mode</text>
+<circle cx="944" cy="95" r="26" fill="none" stroke="#0b6e5c" stroke-opacity=".5"/>
+<path d="M936 103L952 87M940 87H952V99" fill="none" stroke="#0b6e5c" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
