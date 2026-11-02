@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/portrait.png" width="88" alt="Noushad Mostafa">
+<img src="assets/portrait.png" width="99" alt="Noushad Mostafa">
 
 <br>
 
