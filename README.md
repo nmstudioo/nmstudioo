@@ -67,7 +67,11 @@
 
 <br>
 
-<sub>NM Studioo - System for Calrity. Planned, Designed, Organized and built by Noushad Mostafa.</sub>
+<sub>
+NM Studioo - System for Clarity.
+<br>
+Planned, Designed, Organized and built by Noushad Mostafa.
+</sub>
 
 <br>
 
