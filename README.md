@@ -67,7 +67,7 @@
 
 <br>
 
-<sub>Designed and built by Noushad Mostafa · NM Studioo</sub>
+<sub>NM Studioo - System for Calrity. Planned, Designed, Organized and built by Noushad Mostafa.</sub>
 
 <br>
 
